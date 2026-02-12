@@ -307,7 +307,7 @@ export default function ValentinePage() {
             >
               <div className="relative">
                 <img
-                  src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExazB4OWk1Z2J4Y2Z6M2h2dWx5Y2Z6M2h2dWx5Y2Z6M2h2dWx5eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/KztT2c4u8mYYUiMKdJ/giphy.gif"
+                  src="images/ins.jpeg"
                   alt="Cute asking"
                   className="w-40 h-40 object-contain drop-shadow-md"
                 />
